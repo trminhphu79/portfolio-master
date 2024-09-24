@@ -50,9 +50,9 @@ const Experience = () => {
             }
 
             <div className="flex justify-start gap-2 flex-wrap p-4 flex-wrap">
-              {experience?.techstack?.map((stack) => {
+              {experience?.techstack?.map((stack, idx) => {
                 return (
-                  <span className="bg-gray-50 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 dark:bg-transparent  dark:text-white">#{stack}</span>
+                  <span key={idx} className="bg-gray-50 rounded-full px-3 py-1 text-sm font-semibold text-gray-600 dark:bg-transparent  dark:text-white">#{stack}</span>
 
                 )
               })
