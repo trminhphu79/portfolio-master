@@ -42,6 +42,10 @@ export const NAV_LINKS = [
     href: '/#skills',
   },
   {
+    label: 'Blog',
+    href: '/blog',
+  },
+  {
     label: 'Contact',
     href: 'https://www.linkedin.com/in/tmp-dev79/',
   },
