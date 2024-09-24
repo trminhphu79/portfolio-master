@@ -27,7 +27,7 @@ import LogoHTML from '/public/images/logos/icon-html.svg';
 import LogoAngular from '/public/images/logos/icon-angular.svg';
 import LogoRiverCrane from '/public/images/logos/logo-rivercrane.png';
 import VNG_LOGO from '/public/images/logos/VNG-LOGO.jpeg';
-import ECOTRUCK_LOGO from '/public/images/logos/Ecotruck.png';
+import ECOTRUCK_LOGO from '/public/images/logos/EcoTruck.png';
 import APPVITY_LOGO from '/public/images/logos/Appvity.jpg';
 import ProjectIMGUP from '/public/images/logos/project-img-up.png';
 import LogoEC2 from '/public/images/logos/icon-aws-ec2.svg';
