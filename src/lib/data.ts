@@ -180,12 +180,13 @@ export const EXPERIENCES: ExperienceDetails[] = [
     endDate: 'Present',
     currentlyWorkHere: true,
     summarys: [
-      'Collaborating closely with various teams to analyze and refine client requirements',
-      'Preparing and presenting daily or weekly reports to clients based in Singapore',
-      'Managed and implemented new features while resolving bugs across two projects',
-      'Developing and maintaining comprehensive unit tests to ensure code quality and reliability',
-      'Providing guidance and mentorship to junior developers to enhance their technical skills',
-      'Actively participated in the recruitment process by conducting interviews and assessing candidates'
+      'Tobe continue....'
+      // 'Collaborating closely with various teams to analyze and refine client requirements',
+      // 'Preparing and presenting daily or weekly reports to clients based in Singapore',
+      // 'Managed and implemented new features while resolving bugs across two projects',
+      // 'Developing and maintaining comprehensive unit tests to ensure code quality and reliability',
+      // 'Providing guidance and mentorship to junior developers to enhance their technical skills',
+      // 'Actively participated in the recruitment process by conducting interviews and assessing candidates'
     ],
     techstack: ['Angular 17+', 'Typescript', 'Javascript', 'Ngrx Store', 'PrimeNg', 'AmCharts', "Unit Test"]
   },
