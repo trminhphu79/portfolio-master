@@ -27,6 +27,7 @@ import LogoHTML from '/public/images/logos/icon-html.svg';
 import LogoAngular from '/public/images/logos/icon-angular.svg';
 import LogoRiverCrane from '/public/images/logos/logo-rivercrane.png';
 import VNG_LOGO from '/public/images/logos/VNG-LOGO.jpeg';
+import CMC_LOGO from '/public/images/logos/cmc-global.jpeg';
 import ECOTRUCK_LOGO from '/public/images/logos/EcoTruck.png';
 import APPVITY_LOGO from '/public/images/logos/Appvity.jpg';
 import ProjectIMGUP from '/public/images/logos/project-img-up.png';
@@ -170,13 +171,32 @@ export const TECHNOLOGIES: TechDetails[] = [
 
 export const EXPERIENCES: ExperienceDetails[] = [
   {
+    companyName: 'CMC Global',
+    logo: CMC_LOGO,
+    darkModeLogo: CMC_LOGO,
+    logoAlt: 'CMC Global',
+    position: 'Senior Frontend Developer',
+    startDate: '11/2024',
+    endDate: 'Present',
+    currentlyWorkHere: true,
+    summarys: [
+      'Collaborating closely with various teams to analyze and refine client requirements',
+      'Preparing and presenting daily or weekly reports to clients based in Singapore',
+      'Managed and implemented new features while resolving bugs across two projects',
+      'Developing and maintaining comprehensive unit tests to ensure code quality and reliability',
+      'Providing guidance and mentorship to junior developers to enhance their technical skills',
+      'Actively participated in the recruitment process by conducting interviews and assessing candidates'
+    ],
+    techstack: ['Angular 17+', 'Typescript', 'Javascript', 'Ngrx Store', 'PrimeNg', 'AmCharts', "Unit Test"]
+  },
+  {
     companyName: 'VNG Corporation',
     logo: VNG_LOGO,
     darkModeLogo: VNG_LOGO,
     logoAlt: 'VNG Corporation',
     position: 'Software Engineer',
     startDate: '6/2023',
-    endDate: 'Present',
+    endDate: '11/2024',
     currentlyWorkHere: true,
     summarys: [
       'Developed and deployed two projects using Angular 16+, integrating Restful API, GraphQL, and AWS',
